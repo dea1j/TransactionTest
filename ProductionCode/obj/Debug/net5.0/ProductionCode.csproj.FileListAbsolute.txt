@@ -1,0 +1,12 @@
+/Users/mac/Documents/dotNet/UnitTest/UnitTestCourses/ProductionCode/bin/Debug/net5.0/ProductionCode.deps.json
+/Users/mac/Documents/dotNet/UnitTest/UnitTestCourses/ProductionCode/bin/Debug/net5.0/ProductionCode.dll
+/Users/mac/Documents/dotNet/UnitTest/UnitTestCourses/ProductionCode/bin/Debug/net5.0/ProductionCode.pdb
+/Users/mac/Documents/dotNet/UnitTest/UnitTestCourses/ProductionCode/obj/Debug/net5.0/ProductionCode.csproj.AssemblyReference.cache
+/Users/mac/Documents/dotNet/UnitTest/UnitTestCourses/ProductionCode/obj/Debug/net5.0/ProductionCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/dotNet/UnitTest/UnitTestCourses/ProductionCode/obj/Debug/net5.0/ProductionCode.AssemblyInfoInputs.cache
+/Users/mac/Documents/dotNet/UnitTest/UnitTestCourses/ProductionCode/obj/Debug/net5.0/ProductionCode.AssemblyInfo.cs
+/Users/mac/Documents/dotNet/UnitTest/UnitTestCourses/ProductionCode/obj/Debug/net5.0/ProductionCode.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/dotNet/UnitTest/UnitTestCourses/ProductionCode/obj/Debug/net5.0/ProductionCode.dll
+/Users/mac/Documents/dotNet/UnitTest/UnitTestCourses/ProductionCode/obj/Debug/net5.0/refint/ProductionCode.dll
+/Users/mac/Documents/dotNet/UnitTest/UnitTestCourses/ProductionCode/obj/Debug/net5.0/ProductionCode.pdb
+/Users/mac/Documents/dotNet/UnitTest/UnitTestCourses/ProductionCode/obj/Debug/net5.0/ref/ProductionCode.dll
